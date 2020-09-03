@@ -1,5 +1,5 @@
 # Assignment operator
-#### Unlike Math, = is not for comparison. It is in fact used for assigning the value on the right side to the declared variable. You can declare #### a variable and assign a value at the same time:
+#### Unlike Math, = is not for comparison. It is in fact used for assigning the value on the right side to the declared variable. You can declare a variable and assign a value at the same time:
 
 #### var foo = 6;
 #### You can also assign a value to an existing variable:
