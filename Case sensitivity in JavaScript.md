@@ -3,4 +3,4 @@
 
 #### Each JavaScript identifier is case sensitive: for example, Name, nAme and name, are not the same variable in JavaScript:
 
-![image] (C:\Users\jcamiling\Desktop\Desktop Misc Catch Folder\JavaScriptNotes\Case sensitivity in JavaScript Img1.PNG)
+![image] (./Case sensitivity in JavaScript Img1.PNG)
